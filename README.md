@@ -1,6 +1,13 @@
-# My Sandbox
+# Color chart
+
+![output.png](output.png)
+
+
+# Contact
 
 Twitter: https://twitter.com/kaizkaphoto
+
+----
 
 # Memo
 
